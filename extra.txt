@@ -1,0 +1,26 @@
+HTML - Hypertext markup  lang
+
+Tag and element
+ex : hello class <p>Welcome to latx </p>
+
+Tag 
+  1. open and close 
+  2. self closing tag
+
+
+Heading : h1 - h6
+    <h1>Welcome to latx</h1>
+    <h2>Welcome to latx</h2>
+    <h3>Welcome to latx</h3>
+    <h4>Welcome to latx</h4>
+    <h5>Welcome to latx</h5>
+    <h6>Welcome to latx</h6>
+
+Para : <p> </p>
+
+
+Bold : <b> </b>
+
+italic : <i> </i>
+
+break rule : <br/>
